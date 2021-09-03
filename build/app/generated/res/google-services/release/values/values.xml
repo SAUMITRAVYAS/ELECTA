@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">54109478018-7pticdc91hi5uqm178uahubts6080ifv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">54109478018</string>
+    <string name="google_api_key" translatable="false">AIzaSyC0CqAn85MO3X9lAxD-zgfXQr_AnvZ7FxM</string>
+    <string name="google_app_id" translatable="false">1:54109478018:android:9223dccf0d655434b6289b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC0CqAn85MO3X9lAxD-zgfXQr_AnvZ7FxM</string>
+    <string name="google_storage_bucket" translatable="false">electa-e343d.appspot.com</string>
+    <string name="project_id" translatable="false">electa-e343d</string>
+</resources>

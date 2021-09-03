@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_lnm.png.flat",
+        "source": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\android\\app\\src\\main\\res\\mipmap-hdpi\\lnm.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_lnm.png.flat",
+        "source": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\android\\app\\src\\main\\res\\mipmap-mdpi\\lnm.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_lnm.png.flat",
+        "source": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\lnm.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_lnm.png.flat",
+        "source": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\android\\app\\src\\main\\res\\mipmap-xhdpi\\lnm.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_splash_screen.png.flat",
+        "source": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\android\\app\\src\\main\\res\\drawable-v21\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_lnm.png.flat",
+        "source": "C:\\Users\\HP\\OneDrive\\Desktop\\New folder\\Electa\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\lnm.png"
+    }
+]

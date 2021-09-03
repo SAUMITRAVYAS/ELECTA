@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/lnm/Electa/BuildConfig.java
+ com.lnm.Electa.BuildConfig
+com/example/electa/BuildConfig.java
+ com.example.electa.BuildConfig
